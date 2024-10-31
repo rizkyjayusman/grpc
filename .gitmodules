@@ -1,3 +1,3 @@
 [submodule "grpc-client"]
 	path = grpc-client
-	url = git@gh_personal:rizkyjayusman/grpc-client.git
+	url = git@github.com:rizkyjayusman/grpc-client.git
